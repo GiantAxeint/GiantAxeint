@@ -3,7 +3,7 @@
   <samp>
     <a href="https://github.com/GiantAxeint">GitHub</a> ·
     Blog (coming soon) ·
-    <a href="你的LeetCode">Leetcode</a>
+    <a href="https://leetcode.cn/u/erius/">Leetcode</a>
   </samp>
 </p>
 
