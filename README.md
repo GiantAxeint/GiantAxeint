@@ -1,11 +1,6 @@
-### Hi there 👋 I'm **Erius**
+### Hi **Erius** Here
 
-AI grad student (Intelligent Science & Technology) · Obsidian plugin maker · Agent tinkerer
+AI grad student (Intelligent Science & Technology) 
 
-> I like agents & LLMs — feel free to reach out
-
----
-Regain lost courage.
----
-
+ **“Regain lost courage.”** &#8203;
 
