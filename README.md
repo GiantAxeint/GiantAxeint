@@ -2,7 +2,7 @@
 <p>
   <samp>
     <a href="https://github.com/GiantAxeint">GitHub</a> ·
-    Blog (coming soon) ·
+     <a href="https://erius.dpdns.org/">Blog</a> .
     <a href="https://leetcode.cn/u/erius/">Leetcode</a>
   </samp>
 </p>
